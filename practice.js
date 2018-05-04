@@ -15,8 +15,11 @@
 */
 
 //Code here
-
-
+var me = {
+  name: "Taylor",
+  age: 24
+}
+alert(me.name)
 
 ////////// PROBLEM 2 //////////
 
