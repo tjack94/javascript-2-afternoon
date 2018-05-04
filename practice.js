@@ -70,7 +70,7 @@ favoriteThings.book = "Harry Potter"
 
 //Code here
 var backPack = {}
-var item = "first Pocket"
+var item = "firstPocket"
 backPack[item]= "chapstick"
 backPack.color = "grey"
 
