@@ -54,8 +54,8 @@ favoriteThings.brand = "Nike"
 */
 
 //Code here
-favoritethings.food = "Chicken Nuggets"
-favoritethings.book = "Harry Potter"
+favoriteThings.food = "Chicken Nuggets"
+favoriteThings.book = "Harry Potter"
 
 
 ////////// PROBLEM 3 //////////
