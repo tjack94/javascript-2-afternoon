@@ -155,6 +155,13 @@ methodCollection.logHello
 */
 
 //Code Here
+function makePerson(name, birthday, ssn){
+  var person = {
+    name: name,
+    birthday: birthday,
+ssn: ssn,}
+return person
+}
 
 
 
