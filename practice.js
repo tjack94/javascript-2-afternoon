@@ -174,4 +174,11 @@ return person
 
 //Code Here
 
-
+function makeCard (cardNumber, expirationDate, securityCode){
+  var creditCard = {
+    cardNumber: cardNumber,
+    expirationDate: expirationDate,
+    securityCode: securityCode,
+  }
+  return creditCard
+}
