@@ -68,15 +68,17 @@ favoritethings.book = "Harry Potter"
 */
 
 //Code here
-
-
+var backPack = {}
+var item = "first Pocket"
+backPack[item]= "chapstick"
+backPack.color = "grey"
 
 /*
   After you do the above, alert your entire backPack object.
 */
 
 //Code here
-
+alert(backPack)
 
 
 /*
@@ -86,7 +88,7 @@ Instead, console.log your whole backPack object and then check out the console.
 */
 
 //Code here
-
+console.log(backPack)
 
 
 ////////// PROBLEM 4 //////////
